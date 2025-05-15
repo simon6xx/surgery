@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Env
+.env
+.venv/
+venv/
+env/
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+logs/
+
+# Installer
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PIP
+pip-log.txt
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Test coverage
+.coverage
+.tox/
+.nox/
+coverage.xml
+htmlcov/
+
+# Unit test / test results
+test-results/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Others
+*.bak
+*.swp
+*.tmp
