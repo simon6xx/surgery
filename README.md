@@ -32,7 +32,7 @@ DJANGO_ENV=prod python manage.py runserver 8088
 
 # 4、Pycharm中啓動調試
 
-![image-20250514100736551](D:\company\project\his\surgery\assets\image-20250514100736551.png)
+![image-20250514100736551](assets\image-20250514100736551.png)
 
 # 5、整體調用流程
 
